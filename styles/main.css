@@ -86,6 +86,7 @@ body {
     border-top-left-radius: 12.5px;
     padding-top: 20px;
     padding-left: 30px;
+    padding-right: 30px;
   }
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
   @media screen and (max-height: 450px) {
